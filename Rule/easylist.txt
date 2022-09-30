@@ -19136,7 +19136,6 @@
 ||flare-analytics.com^
 ||oms.flare.com^
 ||flash-counter.com^
-||flash.cn^
 ||flashadengine.com^
 ||flashadtools.com^
 ||flashb.id^
